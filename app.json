@@ -1,5 +1,11 @@
 {
   "name": "predictionio-engine-classification",
+  "description": "Heroku PredictionIO Engine",
+  "keywords": [
+    "machinelearning",
+    "predictionio"
+  ],
+  "repository": "https://github.com/gongsy945/predictionio-engine-classification",
   "env": {
     "PIO_EVENTSERVER_ACCESS_KEY": {
       "required": true
