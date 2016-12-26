@@ -1,6 +1,5 @@
 {
   "name": "predictionio-engine-classification",
-  "scripts": {},
   "env": {
     "PIO_EVENTSERVER_ACCESS_KEY": {
       "required": true
