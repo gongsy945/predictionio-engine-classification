@@ -8,16 +8,16 @@
   "repository": "https://github.com/gongsy945/predictionio-engine-classification",
   "env": {
     "PIO_EVENTSERVER_ACCESS_KEY": {
-      "required": true
+      "description": "PredictionIO Event Server App Access Key"
     },
     "PIO_EVENTSERVER_APP_NAME": {
-      "required": true
+      "description": "PredictionIO Event Server app name"
     },
     "PIO_EVENTSERVER_HOSTNAME": {
-      "required": true
+      "description": "PredictionIO Event Server host"
     },
     "PIO_EVENTSERVER_PORT": {
-      "required": true
+      "description": "PredictionIO Event Server port"
     }
   }
 }
